@@ -1,0 +1,7 @@
+call "1-create-prescription-new-patient.bat"
+call "2-create-prescription-existing-patient.bat"
+call "3-get-patient-details.bat"
+call "4-invalid-duedate.bat"
+call "5-nonexistent-medicament.bat"
+call "6-too-many-medicaments.bat"
+call "7-nonexistent-patient.bat" 

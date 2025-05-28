@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:1337/api/prescription" -H "Content-Type: application/json" -d "{\"patient\": {\"firstName\": \"Test\", \"lastName\": \"User\", \"birthdate\": \"1995-12-25T00:00:00Z\"}, \"prescription\": {\"date\": \"2024-01-20T00:00:00Z\", \"dueDate\": \"2024-01-15T00:00:00Z\", \"idDoctor\": 1}, \"medicaments\": [{\"idMedicament\": 1, \"dose\": 1}]}" 

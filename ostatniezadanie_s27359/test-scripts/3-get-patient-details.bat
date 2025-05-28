@@ -1,0 +1,1 @@
+curl -X GET "http://localhost:1337/api/prescription/patient/1" -H "Accept: application/json" 
