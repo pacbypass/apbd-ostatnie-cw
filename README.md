@@ -2,9 +2,6 @@ Po odpaleniu w riderze, wystawia http na `http://localhost:1337`
 
 Na potrzebe zrobilem kilka testów w formie skryptów curl w `ostatniezadanie_s27359/test-scripts`
 
-### Individual Tests
-
-Run each test script individually by double-clicking on the `.bat` files:
 
 Jeśli chce się Panu sprawdzać kody zwrotu z curl to trzeba dodać -v do komend curlowych
 1. **1-create-prescription-new-patient.bat** - Tworzy recepte dla nowego pacjenta
